@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Lecture stuff
+lecture_ignore
+
 # C extensions
 *.so
 
